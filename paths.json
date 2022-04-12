@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/components": ["src/components"],
+      "src/utils": ["src/utils"],
+      "src/package": ["package.json"],
+      "src/project": ["project.config.json"],
+      "src/model": ["src/model"],
+      "src/assets": ["src/assets"],
+      "src/filters": ["src/filters"],
+      "src/hooks": ["src/hooks"],
+      "src/pages": ["src/pages"]
+    }
+  }
+}
